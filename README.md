@@ -6,15 +6,15 @@
 ![Badge Cursus](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/stats?cursusId=21&coalitionId=45)
 - **Période** : 4 novembre 2024 - En cours  
 ### Projets 42
-| Projet        | Badge                          |
-|---------------|--------------------------------|
-| Libft         | ![Badge Libft](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4018303) |
-| GNL           | ![Badge GNL](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4051563) |
-| ft_printf     | ![Badge ft_printf](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4055704) |
-| Born2beroot   | ![Badge Born2beroot](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4076249) |
-| push_swap     | ![Badge push_swap](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4165471) |
-| minitalk      | ![Badge minitalk](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4232959) |
-| Exam Rank 02  | ![Badge Exam Rank 02](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4165746) |
+| Projet        | Badge                          | Date de rendu  |
+|---------------|--------------------------------|----------------|
+| Libft         | ![Badge Libft](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4018303) | 04-12-2024     |
+| GNL           | ![Badge GNL](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4051563) |  24-01-2025     |
+| ft_printf     | ![Badge ft_printf](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4055704) | 10-02-2025     |
+| Born2beroot   | ![Badge Born2beroot](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4076249) | 21-02-2025     |
+| push_swap     | ![Badge push_swap](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4165471) |03-04-2025     |
+| minitalk      | ![Badge minitalk](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4232959) | En cours    |
+| Exam Rank 02  | ![Badge Exam Rank 02](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4165746) | 03-04-2025     |
 
 ## 🏊 Piscine
 
