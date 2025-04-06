@@ -8,7 +8,7 @@
 ### Projets 42
 | Projet        | Badge                          | Date de rendu  |
 |---------------|--------------------------------|----------------|
-| Libft         | ![Badge Libft](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4018303) | 04-12-2024     |
+| [Libft](https://github.com/evandspr/libft) | ![Badge Libft](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4018303) | 04-12-2024     |
 | GNL           | ![Badge GNL](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4051563) |  24-01-2025     |
 | ft_printf     | ![Badge ft_printf](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4055704) | 10-02-2025     |
 | Born2beroot   | ![Badge Born2beroot](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4076249) | 21-02-2025     |
