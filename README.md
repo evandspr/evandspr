@@ -13,7 +13,7 @@
 | [get_next_line](https://github.com/evandspr/get_next_line) | ![Badge GNL](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4051563) |  24-01-2025     |
 | [ft_printf](https://github.com/evandspr/ft_printf) | ![Badge ft_printf](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4055704) | 10-02-2025     |
 | Born2beroot   | ![Badge Born2beroot](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4076249) | 21-02-2025     |
-| [push_swap]https://github.com/evandspr/push_swap | ![Badge push_swap](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4165471) |03-04-2025     |
+| [push_swap](https://github.com/evandspr/push_swap) | ![Badge push_swap](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4165471) |03-04-2025     |
 | minitalk      | ![Badge minitalk](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4232959) | En cours    |
 | Exam Rank 02  | ![Badge Exam Rank 02](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4165746) | 03-04-2025     |
 
