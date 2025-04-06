@@ -4,7 +4,8 @@
 
 ## 📚 Cursus Actuel 
 ![Badge Cursus](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/stats?cursusId=21&coalitionId=45)
-- **Période** : 4 novembre 2024 - En cours  
+
+**Période** : 4 novembre 2024 - En cours  
 ### Projets 42
 | Projet        | Badge                          | Date de rendu  |
 |---------------|--------------------------------|----------------|
@@ -17,7 +18,6 @@
 | Exam Rank 02  | ![Badge Exam Rank 02](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/project/4165746) | 03-04-2025     |
 
 ## 🏊 Piscine
-
 **Période** : 12 août - 6 septembre 2024
    
 ![Badge Piscine](https://badge.nimon.fr/api/v2/cm94p1kgs7637401mzsavc6dnf/stats?cursusId=9&coalitionId=108)
